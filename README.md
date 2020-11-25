@@ -1,3 +1,17 @@
+This is a random quote generator that is super fun to use, try it your self. Filter through at random your favorite quotes with touch of a button, and after you find you favorite quote for the day just hit the tweet button to tweet trhi directly out on twitter. React generated using twitter dev tools and som fancy css and JSX. Very cool app you can try it here live https://random-quote-generator-io.herokuapp.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
